@@ -1,0 +1,3 @@
+wiimote.svg from:
+http://ftpmerou.free.fr/ubuntu/wiimote/wiimote.svg
+http://www.gnome-look.org/content/show.php/Wiimote+SVG?content=53620&PHPSESSID=6
